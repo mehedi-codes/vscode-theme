@@ -6,13 +6,13 @@
   "icon": "assets/logo.png",
   "publisher": "devbytemehedi",
   "license": "MIT",
-  "homepage": "https://github.com/devbytemehedi/clearview-vscode-theme",
+  "homepage": "https://github.com/mehedi-codes/vscode-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devbytemehedi/clearview-vscode-theme"
+    "url": "https://github.com/mehedi-codes/vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/devbytemehedi/clearview-vscode-theme/issues",
+    "url": "https://github.com/mehedi-codes/vscode-theme/issues",
     "email": "devbytemehedi@gmail.com"
   },
   "engines": {
